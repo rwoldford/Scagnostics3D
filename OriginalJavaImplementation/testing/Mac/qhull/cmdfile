@@ -1,0 +1,1 @@
+cat /tmp/scagnostics3D/qhull/points.txt | /tmp/scagnostics3D/qhull/qdelaunay i Qt TO /tmp/res1
